@@ -4,7 +4,7 @@ This repo contains a feature extraction from Twitter content (NLP and Sentiment 
 Features extracted from this dataset assume to be representative of the whole population of existing Smart-Cities nowadays. It will be used as a comparison point to train predictive models and test probabilistic hypothesis on samples.  
 
 In this repo you can find:
-- Feature Extraction 1 for each Smart-City (including weight of smart-city BoWs https://github.com/DemocracyStudio/smartcityBoWs)
+- Feature Extraction 1 for each Smart-City (including weight of smart-city BoWs https://github.com/DemocracyStudio/smartcityBoWs) 
 - Feature Extraction 2 for each Smart-City
 - the raw .csv file of twitter content
 
