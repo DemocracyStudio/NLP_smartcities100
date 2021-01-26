@@ -8,7 +8,7 @@ In this repo you can find:
 - Feature Extraction 2 for each Smart-City
 - the raw .csv file of twitter content
 
-* FEATURE EXTRACTION 1 :
+FEATURE EXTRACTION 1 :
 
 Tweet-level features : 
     - delete null rows
@@ -25,5 +25,5 @@ City-level features :
     - nlp tasks (expand contractions, remove digits, @mentions, url, punctuation, tokenizing, cleaning stopwords, useless, lemmatize, num clean tokens, extract most frequent 100...) 
     - sentiment analysis vader
 
-* FEATURE EXTRACTION 2 :
+FEATURE EXTRACTION 2 :
 
