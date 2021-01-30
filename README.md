@@ -4,8 +4,9 @@ This repo contains a feature extraction from Twitter content (NLP and Sentiment 
 Features extracted from this dataset assume to be representative of the whole population of existing Smart-Cities nowadays. It will be used as a comparison point to train predictive models and test probabilistic hypothesis on samples.  
 
 In this repo you can find:
-- the feature extraction notebook (including weight BoWs for urban studies explained here : https://github.com/DemocracyStudio/smartcityBoWs) 
-- the descriptive statistics and correlation notebook is accessible from this drive link : https://drive.google.com/file/d/1llPxZD1N8e2NuHGMa3NFe5eIBAWbQem6/view?usp=sharing
-- the machine learning models and hypothesis testing notebook
-- the raw .csv file of smartcities tweets
+- the raw .csv file of 110,862 smartcities tweets
+- three notebooks : feature extraction, statistics and correlation, Machine Learning models
+
+To read more about the "Weight of BoWs for urban studies" technique, you can go here : https://github.com/DemocracyStudio/smartcityBoWs
+
 
